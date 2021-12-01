@@ -129,7 +129,7 @@ permalink: /resources/
       <h5> Malware Analysis </h5>
       
     </summary>
-    <h4> Please check again next time! </h4>
+    <h4 style="text-align: center;margin: 6px;background: none;"> Please check again next time! </h4>
       <br> <br> 
      <h4 style= "text-align:center; font-weight:501; background:none;"> thabk u </h4>
       <img src="/images/charderp.gif" style="background:none;"> 
@@ -141,7 +141,7 @@ permalink: /resources/
     <summary>
       <h5> Low-level concepts (OS, memory, drivers) </h5>
     </summary>
-    <h4> Please check again next time! </h4>
+    <h4 style="text-align: center;margin: 6px;background: none;"> Please check again next time! </h4>
       <br> <br> 
      <h4 style= "text-align:center; font-weight:501; background:none;"> thabk u </h4> 
       <img src="/images/charderp.gif" style="background:none;"> 
