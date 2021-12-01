@@ -1,0 +1,7 @@
+---
+layout: justblank
+title: wat-this
+permalink: /NDk2NjIwNzUyMDYzNjE2RTIwNzI2NTYxNjQyMDc0Njg2OTczMjA3NTcyMjA2MTIwNkU2NTcyNjQyMDNBMjk=/
+---
+
+061221: special Document Hello, this is the special document. How goes you! How goes the special document microsoft word? this is not microsot word but the text man thousand four houndred two thousand and nine. What did the nine thousand four house power car say to the owl? Hello. This is the bobby murda beat bitch. Bobby bitch all my homies know its bobby bitch its murda bitch. How does the captain of the ship know what I'm even saying? Special delivery! SPeciar Derivery! What does that even mean? Can anyone tell me why the hot wheels are not from the same company as hot pockets? Hmm. Very good question but nobody will ever know the answer. What a sad fate. Maybe one day the new einstein will figure that out. Hot Pocket Wheels. Special Document Part one ends here.
