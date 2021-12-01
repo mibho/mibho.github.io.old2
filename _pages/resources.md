@@ -130,7 +130,8 @@ permalink: /resources/
       
     </summary>
     <h4> Please check again next time! </h4>
-      <br> <br> thabk u 
+      <br> <br> 
+     <h4 style= "text-align:center;"> thabk u </h4>
       <img src="/images/charderp.gif" style="background:none;"> 
   </details>
   
@@ -141,7 +142,8 @@ permalink: /resources/
       <h5> Low-level concepts (OS, memory, drivers) </h5>
     </summary>
     <h4> Please check again next time! </h4>
-      <br> <br> thabk u 
+      <br> <br> 
+     <h4 style= "text-align:center;"> thabk u </h4> 
       <img src="/images/charderp.gif" style="background:none;"> 
   </details>
   
