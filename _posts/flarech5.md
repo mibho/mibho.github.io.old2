@@ -2,7 +2,7 @@
 layout: post
 title: 'Flare-On8-2021 - Chall 05: FLARE Linux VM'
 categories: [FlareOn8, x86, RC4, CyberChef, Linux, VM]
-excerpt: 
+excerpt: Not done
 ---
 
 
