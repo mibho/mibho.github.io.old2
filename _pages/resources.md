@@ -131,7 +131,7 @@ permalink: /resources/
     </summary>
     <h4> Please check again next time! </h4>
       <br> <br> 
-     <h4 style= "text-align:center;"> thabk u </h4>
+     <h4 style= "text-align:center; font-weight:501; background:none;"> thabk u </h4>
       <img src="/images/charderp.gif" style="background:none;"> 
   </details>
   
@@ -143,7 +143,7 @@ permalink: /resources/
     </summary>
     <h4> Please check again next time! </h4>
       <br> <br> 
-     <h4 style= "text-align:center;"> thabk u </h4> 
+     <h4 style= "text-align:center; font-weight:501; background:none;"> thabk u </h4> 
       <img src="/images/charderp.gif" style="background:none;"> 
   </details>
   
