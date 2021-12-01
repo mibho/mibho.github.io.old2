@@ -129,7 +129,8 @@ permalink: /resources/
       <h5> Malware Analysis </h5>
       
     </summary>
-    <h4> Please check again next time! thabk u 
+    <h4> Please check again next time! </h4>
+      <br> <br> thabk u 
       <img src="/images/charderp.gif"> 
   </details>
   
@@ -139,7 +140,9 @@ permalink: /resources/
     <summary>
       <h5> Low-level concepts (OS, memory, drivers) </h5>
     </summary>
-    
+    <h4> Please check again next time! </h4>
+      <br> <br> thabk u 
+      <img src="/images/charderp.gif"> 
   </details>
   
   <br>
