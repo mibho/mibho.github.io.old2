@@ -26,8 +26,7 @@ setInterval(function(){
     }
   
 },duration);
-    console.log("pewpewpewp");
-  console.log("duration");
+    
 }
 
 /**
