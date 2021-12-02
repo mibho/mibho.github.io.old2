@@ -3,6 +3,6 @@ function getRandomArbitrary(min, max) {
 }
 var hidden = false;
 var cnt = 0;
-var dur = getRandomArbitrary(1,7);
+var dur = getRandomArbitrary(1,7) * 1000;
 
 window.addEventListener('load', visible(cnt, dur));
