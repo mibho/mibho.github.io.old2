@@ -12,7 +12,7 @@ setInterval(function(){
     if (!hidden){
         if (count >= 0 && count < 10){
         var x_pos = getRandomArbitrary(20, 80);
-        var y_pos = getRandomArbitrary(1, 30);
+        var y_pos = getRandomArbitrary(1, 60);
         
         target.style.left = x_pos + "%";
         target.style.top = y_pos + "%";
