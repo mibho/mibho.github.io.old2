@@ -20,7 +20,12 @@ permalink: /resources/
       <a href="https://revers.engineering/applied-re-accelerated-assembly-p1/"> Applied Reverse Engineering: Accelerated Assembly by Daax Rynd (recommended) </a>
       <br> <br>
       
+      <a id="x86rsc1">
+      
       <a href="http://www.cs.virginia.edu/~evans/cs216/guides/x86.html">x86 Assembly Guide - University of Virginia [CS216] notes by David Evans (recommended) </a>
+        
+      </a>
+      
       <br> <br>
       
       <a href="https://www.cs.princeton.edu/courses/archive/spr08/cos217/reading/ProgrammingGroundUp-1-0-lettersize.pdf">Programming from the Ground Up by Jonathan Bartlett. Starts from the ground up as stated on its title. (how a computer works -> x86 -> high level languages) </a>
