@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-<a href=#x86rsc1> click me</a>
+<a href="#x86rsc1"> click me</a>
 
 <div class = "rcspg">
 
