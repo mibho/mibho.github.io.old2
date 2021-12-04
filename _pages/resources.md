@@ -4,7 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-<a href="#x86rsc1"> click me</a>
 
 <div class = "rcspg">
 
@@ -22,12 +21,11 @@ permalink: /resources/
       <a href="https://revers.engineering/applied-re-accelerated-assembly-p1/"> Applied Reverse Engineering: Accelerated Assembly by Daax Rynd (recommended) </a>
       <br> <br>
       
-      <a id="x86rsc1">
-      
       <a href="http://www.cs.virginia.edu/~evans/cs216/guides/x86.html">x86 Assembly Guide - University of Virginia [CS216] notes by David Evans (recommended) </a>
-        
-      </a>
+     
+      <a href="https://www.ics.uci.edu/~aburtsev/238P/lectures/lecture03-x86-asm/lecture03-x86-asm.pdf"> Lecture: x86 instruction set by Anton Burtsev </a>
       
+      <a href="http://www.cs.cmu.edu/afs/cs/academic/class/15213-f02/www/R03/section_b/x86notes.pdf"> Intel x86 Assembly Language Programming notes by Tim Bower </a>
       <br> <br>
       
       <a href="https://www.cs.princeton.edu/courses/archive/spr08/cos217/reading/ProgrammingGroundUp-1-0-lettersize.pdf">Programming from the Ground Up by Jonathan Bartlett. Starts from the ground up as stated on its title. (how a computer works -> x86 -> high level languages) </a>
@@ -51,6 +49,7 @@ permalink: /resources/
       <a href="https://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml">C Function Call Conventions and the Stack - UMBC [CMSC 313] lecture review. </a>
    <br>  <br>
       <a href="https://www.csie.ntu.edu.tw/~cyy/courses/assembly/09fall/lectures/handouts/lec15_x86procedure_4up.pdf"> NTU (Taiwanese uni.?) lecture covering push/pop operations on the stack w/ diagrams to help visualize context.</a> 
+      
     <br>
     <br>
     <h3> LEA instruction and pointers </h3>
