@@ -48,8 +48,8 @@ excerpt: x86/x86-64 is .
     <summary> 
 <h5> xor reg, reg </h5>
     </summary>
-    <p>The function<a href=" .com">prologue prepares the stack for use by adjusting the appropriate registers as needed. </a> </p>
-      <p> chek </p>
+    <p>XOR <a href="https://www.pcmag.com/encyclopedia/term/xor">compares two separate bits and outputs one bit. </a> The result is 0 or 1 depending on whether or not the bits compared were the same. </p>
+      <p>  </p>
 </details>
 <br>
 <br>
