@@ -158,6 +158,8 @@ permalink: /resources/
       
     </summary>
     <a href="https://devblogs.microsoft.com/oldnewthing/">Lots of nuggets of gold by Raymond Chen </a>
+    
+    <a href="https://www.rotemy.com/dash/">link to xml for ENTIRE msdn when put in Zeal [3.5 GB-ish]</a>
   </details>
   
 </div>
