@@ -160,6 +160,15 @@ permalink: /resources/
     <a href="https://devblogs.microsoft.com/oldnewthing/">Lots of nuggets of gold by Raymond Chen </a>
     
     <a href="https://www.rotemy.com/dash/">link to xml for ENTIRE msdn when put in Zeal [3.5 GB-ish]</a>
+    
+    <!--
+    https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9139515
+    
+    https://www.researchgate.net/publication/333577831_Automatic_Detection_and_Bypassing_of_Anti-Debugging_Techniques_for_Microsoft_Windows_Environments/fulltext/5cf531244585153c3daf5e14/Automatic-Detection-and-Bypassing-of-Anti-Debugging-Techniques-for-Microsoft-Windows-Environments.pdf
+    
+    https://justinmeiners.github.io/lc3-vm/
+    
+    -->
   </details>
   
 </div>
