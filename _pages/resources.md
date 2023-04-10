@@ -144,10 +144,13 @@ permalink: /resources/
     <summary>
       <h5> Low-level concepts (OS, memory, drivers) </h5>
     </summary>
+     <a href="https://www.cs.princeton.edu/courses/archive/spring15/cos320/"> Compiling Techniques - Princeton CS 320 by David August</a>
+     <!---
     <h4 style="text-align: center;margin: 6px;background: none;"> Please check again next time! </h4>
       <br> <br> 
      <h4 style= "text-align:center; font-weight:501; background:none;"> thabk u </h4> 
       <img src="/images/charderp.gif" style="background:none;"> 
+    -->
   </details>
   
   <br>
